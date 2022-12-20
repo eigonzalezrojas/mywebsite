@@ -1095,3 +1095,9 @@ body {
       padding-right: 20px 15px;
     }
   }
+  .centerwsp {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
