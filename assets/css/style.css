@@ -1099,13 +1099,6 @@ body {
   /*CARDS CSS*/
 
 
-.containerCards {
-    width: 1000px;
-    position: relative;
-    display: flex;
-    justify-content: space-between;
-}
-
 .container .card {
     position: relative;
     border-radius: 10px;
@@ -1197,5 +1190,7 @@ body {
     font-size: 24px;
     text-align: center;
     color: #414141;
-} 
+}
+
+
 
